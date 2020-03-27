@@ -2,7 +2,7 @@
   "name": "weather-application",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iceehao.github.io/react-weather-app-haotran/",
+  "homepage": "https://iceehao.github.io/react-weather-haotran",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
