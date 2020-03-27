@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-weather-haotran-project/static/css/main.5b4f1cee.chunk.css",
+    "main.js": "/react-weather-haotran-project/static/js/main.37543118.chunk.js",
+    "main.js.map": "/react-weather-haotran-project/static/js/main.37543118.chunk.js.map",
+    "runtime-main.js": "/react-weather-haotran-project/static/js/runtime-main.40a65373.js",
+    "runtime-main.js.map": "/react-weather-haotran-project/static/js/runtime-main.40a65373.js.map",
+    "static/css/2.5ad77178.chunk.css": "/react-weather-haotran-project/static/css/2.5ad77178.chunk.css",
+    "static/js/2.216d8e9d.chunk.js": "/react-weather-haotran-project/static/js/2.216d8e9d.chunk.js",
+    "static/js/2.216d8e9d.chunk.js.map": "/react-weather-haotran-project/static/js/2.216d8e9d.chunk.js.map",
+    "index.html": "/react-weather-haotran-project/index.html",
+    "precache-manifest.2db670e12a2395e54bf3756fd97d3a8e.js": "/react-weather-haotran-project/precache-manifest.2db670e12a2395e54bf3756fd97d3a8e.js",
+    "service-worker.js": "/react-weather-haotran-project/service-worker.js",
+    "static/css/2.5ad77178.chunk.css.map": "/react-weather-haotran-project/static/css/2.5ad77178.chunk.css.map",
+    "static/css/main.5b4f1cee.chunk.css.map": "/react-weather-haotran-project/static/css/main.5b4f1cee.chunk.css.map",
+    "static/js/2.216d8e9d.chunk.js.LICENSE.txt": "/react-weather-haotran-project/static/js/2.216d8e9d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-weather-haotran-project/static/media/bg.b6796c73.jpg",
+    "static/media/bootstrap.min.css": "/react-weather-haotran-project/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a65373.js",
+    "static/css/2.5ad77178.chunk.css",
+    "static/js/2.216d8e9d.chunk.js",
+    "static/css/main.5b4f1cee.chunk.css",
+    "static/js/main.37543118.chunk.js"
+  ]
+}
